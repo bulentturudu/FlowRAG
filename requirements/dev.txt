@@ -1,0 +1,5 @@
+-r base.txt
+
+pytest==9.0.3
+pipreqs==0.4.13
+rich==15.0.0
