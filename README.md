@@ -19,7 +19,7 @@ Soru → Router → [RAG veya Web Search] → Document Grading → Generate → 
 ### 1. Repoyu klonla
 
 ```bash
-git clone https://github.com/kullanici-adi/FlowRAG.git
+git clone https://github.com/bulentturudu/FlowRAG.git
 cd FlowRAG
 ```
 
@@ -48,7 +48,7 @@ pip install -r requirements.txt
 `.env.example` dosyasını kopyala ve API key'lerini ekle:
 
 ```bash
-cp .env.example .env
+cp ..env.example .env
 ```
 
 ```env
