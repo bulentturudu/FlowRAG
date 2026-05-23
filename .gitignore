@@ -21,8 +21,8 @@ chroma/
 requirements-lock.txt
 
 # IDE
-.vscode/
 .idea/
 
 # OS
 .DS_Store
+EOF
